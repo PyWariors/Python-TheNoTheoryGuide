@@ -17,7 +17,7 @@
 
 The guide is built using jupyter notebook. Thus, one can just clone the repo and start practising right away.
 
-The guide starts from the very basics of Python and moves into the advanced topics.
+The guide starts from the very basics of Python and moves into the advanced topics.This is for absolute beginners .
 </p>
 
 
