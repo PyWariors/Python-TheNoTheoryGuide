@@ -10,15 +10,15 @@
 
 
 
-# Python - TheNoTheoryGuide
+<h1 align="center"> Python - TheNoTheoryGuide </h1>
 
 
-This is TheNoTheoryGuide to Python.
+<p align="center">This is TheNoTheoryGuide to Python.
 
 The guide is built using jupyter notebook. Thus, one can just clone the repo and start practising right away.
 
 The guide starts from the very basics of Python and moves into the advanced topics.
-
+</p>
 
 
 ## Contents
